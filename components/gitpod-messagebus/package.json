@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@gitpod/gitpod-protocol": "0.1.5",
-    "amqplib": "^0.8.0",
+    "amqplib": "^0.9.0",
     "opentracing": "^0.14.4",
     "uuid": "^8.3.2"
   },
