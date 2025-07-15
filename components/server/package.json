@@ -27,7 +27,7 @@
     "/dist"
   ],
   "dependencies": {
-    "@gitbeaker/node": "^35.7.0",
+    "@gitbeaker/node": "^35.8.1",
     "@gitpod/content-service": "0.1.5",
     "@gitpod/gitpod-db": "0.1.5",
     "@gitpod/gitpod-messagebus": "0.1.5",
@@ -76,7 +76,7 @@
     "passport-dummy": "^0.0.1",
     "passport-gitlab2": "5.0.0",
     "passport-http": "^0.3.0",
-    "probot": "12.1.1",
+    "probot": "13.0.0",
     "prom-client": "^13.2.0",
     "rate-limiter-flexible": "^2.3.6",
     "reflect-metadata": "^0.1.10",
